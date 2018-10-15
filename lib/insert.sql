@@ -12,14 +12,4 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 47, "female", "red", "sassy", "true")
 
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 20, "male", "black", "tired", "true")
- Sergeant Brown, Melissa, Grinch, Wendy, Null 
-
-
-    name TEXT,
-    age INTEGER,
-    gender TEXT, 
-    color TEXT,
-    temperament TEXT,
-    alive BOOLEAN 
-); 
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 20, "male", "black", "mad", "true")
