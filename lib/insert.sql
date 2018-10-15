@@ -2,7 +2,7 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Ch
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 2, "male", "black", "tired", "true")
 
-
+Rowdy, Tabitha, Sergeant Brown, 
     name TEXT,
     age INTEGER,
     gender TEXT, 
